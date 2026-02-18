@@ -1,6 +1,6 @@
-# ML-labs
+# Assignment 1 \ ML Course
 
-Simple machine learning lab workspace.
+EDA for a Apple Stock Price 1980-2025.
 
 ## Contents
 - `AAPL_Stock_Price_Dataset.csv`
